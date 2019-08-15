@@ -7,6 +7,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) a
 ## Unreleased
 ### Added
 - Add `vivado` format to the `script` command.
+- Add `--abort-on-error` flag to the `script` command (effective for `synopsys` and `vsim`).
 
 ## 0.13.3 - 2019-07-29
 ### Changed
